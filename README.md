@@ -3,8 +3,8 @@
 <p align="center">
   🔭 Currently exploring <b>Quantitative Finance & Programming</b><br>
   🌱 Learning new things every day<br>
-  💬 Ask me about Python, C++, or Math<br>
-  📫 Reach me at: your-email@example.com
+  💬 Ask me about Python, C++, OCaml , Quant Trading
+  📫 Reach me at: monodipmalakar00@example.com
 </p>
 
 <br>
@@ -13,9 +13,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Quant Trading](https://img.shields.io/badge/Quant%20Trading-1A1A2E?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 <br>
 
