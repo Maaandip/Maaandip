@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Maaandip 👋</h1>
 
 <p align="center">
-  🔭 Currently exploring <b>Quantitative Finance & Programming</b><br>
   🌱 Learning new things every day<br>
   💬 Ask me about Python, C++, OCaml , Quant Trading
   📫 Reach me at: monodipmalakar00@example.com
